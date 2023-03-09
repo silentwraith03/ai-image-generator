@@ -10,9 +10,6 @@ Built a web application that creates images from scratch based on user‑provide
 ## Screenshots
 <img src='images/sc1.png'>
 <img src='images/sc2.png'>
-<img src='images/sc3.png'>
-<img src='images/sc4.png'>
-<img src='images/sc5.png'>
 
 ## Tech Used
 * OpenAI API
