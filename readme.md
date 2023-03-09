@@ -27,7 +27,6 @@ Built a web application that creates images from scratch based on user‑provide
 npm i express openai dotenv
 ```
 2. Create .env file
-Example
 ```
 PORT=5000
 OPENAI_API_KEY='YOUR_API_KEY'
