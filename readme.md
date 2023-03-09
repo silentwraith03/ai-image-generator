@@ -20,20 +20,18 @@ Built a web application that creates images from scratch based on user‑provide
 * JS
 
 ## Setup
-**NOTE:** Use powershell on Windows for this setup.
+**NOTE:** Use terminal on Windows for this setup.
 
-1. Install Docker
-2. Change directory for datawiz.
-```
-cd datawiz/
-```
-3. Add executable permissions for [executor.sh](./datawiz/executor.sh).  
-```
-chmod +x ./executor.sh
-```
-4. Execute
-```
-./executor.sh
-```
+1. Install Express, OpenAI API and Dotenv
+npm i express openai dotenv
+
+2. Create .env file
+Example
+
+3. Start server
+npm run dev  
+
+4.  Visit localhost:5000 on your browser
+
 ## License
 [MIT](LICENSE)
