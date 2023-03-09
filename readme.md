@@ -32,8 +32,9 @@ PORT=5000
 OPENAI_API_KEY='YOUR_API_KEY'
 ```
 3. Start server
+```bash
 npm run dev  
-
+```
 4.  Visit localhost:5000 on your browser
 
 ## License
