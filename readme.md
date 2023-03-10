@@ -1,5 +1,3 @@
-<img src='images/banner.png'>
-
 ## Project Overview
 Built a web application that creates images from scratch based on user‑provided text.
 
